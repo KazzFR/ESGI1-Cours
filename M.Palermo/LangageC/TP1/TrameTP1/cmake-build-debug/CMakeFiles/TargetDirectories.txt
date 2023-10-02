@@ -1,0 +1,3 @@
+C:/Users/louis/OneDrive/Bureau/four tout/Espace DEV AIX/DEV - ESGI/M.Palermo/LangageC/TP1/TrameTP1/cmake-build-debug/CMakeFiles/TrameTP1.dir
+C:/Users/louis/OneDrive/Bureau/four tout/Espace DEV AIX/DEV - ESGI/M.Palermo/LangageC/TP1/TrameTP1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/louis/OneDrive/Bureau/four tout/Espace DEV AIX/DEV - ESGI/M.Palermo/LangageC/TP1/TrameTP1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

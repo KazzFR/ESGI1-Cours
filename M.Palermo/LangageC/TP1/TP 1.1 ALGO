@@ -1,0 +1,32 @@
+## Algo by Louis Dalet
+
+DEBUT
+    Afficher "Choisissez une opération: 1 pour Addition, 2 pour Soustraction, 3 pour Multiplication, 4 pour Division"
+    Lire operation
+
+    Afficher "Entrez le premier nombre:"
+    Lire nombre1
+
+    Afficher "Entrez le deuxième nombre:"
+    Lire nombre2
+
+    SI operation == 1 ALORS
+        resultat = nombre1 + nombre2
+    SINON SI operation == 2 ALORS
+        resultat = nombre1 - nombre2
+    SINON SI operation == 3 ALORS
+        resultat = nombre1 * nombre2
+    SINON SI operation == 4 ALORS
+        SI nombre2 != 0 ALORS
+            resultat = nombre1 / nombre2
+        SINON
+            Afficher "Erreur: Division par zéro"
+            FIN
+        FIN SI
+    SINON
+        Afficher "Erreur: Opération non valide"
+        FIN
+    FIN SI
+
+    Afficher "Le résultat est: ", resultat
+FIN
